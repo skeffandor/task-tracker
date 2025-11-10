@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/skeffandor/go-project-1/internal/cli"
-	"github.com/skeffandor/go-project-1/internal/manager"
+	"github.com/skeffandor/task-tracker/internal/cli"
+	"github.com/skeffandor/task-tracker/internal/manager"
 )
 
 func main() {

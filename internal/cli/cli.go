@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	mngr "github.com/skeffandor/go-project-1/internal/manager"
+	mngr "github.com/skeffandor/task-tracker/internal/manager"
 )
 
 func InitCLI(tm *mngr.TaskManager) {
